@@ -10,7 +10,7 @@ berat = float(input("masukkan berat badan:"))
 
 print(f"\nNama lengkap saya {nama}, biasa dipanggil {panggilan}.")
 print(f"Saya berusia {umur} tahun dan saya adalah mahasiswa dari prodi {prodi}.")
-print(f"dengan NIM {nim} asal sekolah saya dari{asal_sekolah}.")
+print(f"dengan NIM {nim} asal sekolah saya dari {asal_sekolah}.")
 print(f"alasan saya masuk informatika adalah {alasan_masuk_informatika}.")
 print(f"tinggi badan saya {tinggi} cm, dan berat badan saya adalah {berat} kilo.")
 
