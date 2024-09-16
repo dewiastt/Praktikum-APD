@@ -1,4 +1,6 @@
 # Praktikum-APD
-#Nama  : DEWI ASTUTI
-#Nim   : 2409106007
-#Kelas : A1'24
+Nama  : Dewi Astuti
+
+Nim   : 2409106007
+
+Kelas : A1'24
