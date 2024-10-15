@@ -161,12 +161,10 @@ while True:
                         harga_menu = int(input("Masukkan harga menu: "))
                     except ValueError:  
                         print("Silakan isi kembali.")
-                        continue 
 
                     no_menu = max(menu.keys()) + 1
                     menu[no_menu] = {"nama": nama_menu, "harga": harga_menu}
                     print(f"{nama_menu} telah ditambahkan ke menu.")
-                    break 
                     
                 elif pilihan == "3":
                     try:
