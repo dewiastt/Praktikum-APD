@@ -14,7 +14,7 @@ menu = {
 }
 
 pesanan = {}  
-riwayat_pesanan = []  
+riwayat_pesanan = {} 
 
 akun = {
     "admin": {"username": "admin", "password": "admin123"},
